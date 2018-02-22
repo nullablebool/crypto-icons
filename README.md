@@ -8,11 +8,13 @@ Just pull and use the icons as you please or download directly from GitHub.
 
 ### Checkout with Git
 
-What things you need to install the software and how to install them
+Assume you have Git installed...
 
 ```
 git clone https://github.com/nullablebool/crypto-icons.git
 ```
+
+NOTE: You can also just download this repo as a zip via GitHub.
 
 ### Or, load directly via RawGit.com
 
