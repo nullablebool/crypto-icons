@@ -31,7 +31,7 @@ https://cdn.rawgit.com/nullablebool/crypto-icons/f199603c/32x32/BTC-32.png
 
 Want a 200px LTC?
 
-![LTC 200x200](https://cdn.rawgit.com/nullablebool/crypto-icons/f199603c/200X200/LTC-200.png)
+![LTC 200x200](https://cdn.rawgit.com/nullablebool/crypto-icons/f199603c/200x200/LTC-200.png)
 
 ```
 https://raw.githubusercontent.com/nullablebool/crypto-icons/f199603c/200x200/LTC-200.png
@@ -50,8 +50,11 @@ See also the list of [contributors](https://github.com/nullablebool/crypto-icons
 ## Donations & Donators
 
 ![BTC 16x16](16x16/BTC-16.png?raw=true) 1AkXNQK68bevfWJJQThhEqZhfT4Kw3YBzt
+
 ![ETH 16x16](16x16/ETH-16.png?raw=true) 0x38344E1cD4b84Acb977e977519f14f4e55AEb431
+
 ![LTC 16x16](16x16/LTC-16.png?raw=true) LZHMLPV8oDftRZTarYtVpfHQFtJZXcr3fJ
+
 ![BCH 16x16](16x16/BCH-16.png?raw=true) 1GqA9wCbSh289RtZ8Ge1WKnjysjG8S2oxN
 
 ## Acknowledgments
